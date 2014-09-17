@@ -1,0 +1,9 @@
+{
+	"messages": [
+		{
+			"@class": "org.demo.sample.impl.model.DefaultMessage",
+			"id": "1",
+			"name": "Joe Smith"
+		}
+	]
+}
