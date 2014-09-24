@@ -7,7 +7,7 @@
 		<groupId>org.demo</groupId>
 		<artifactId>sample</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>../sample/pom.xml</relativePath>
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 	<artifactId>sample-test</artifactId>
